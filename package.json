@@ -1,0 +1,17 @@
+{
+  "name": "webpack-folder-cleaner",
+  "version": "1.0.0",
+  "description": "a plugin to clean folders between changes and compiles removing old versions and unused versions of files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "folder",
+    "files",
+    "directory"
+  ],
+  "author": "akashicseer",
+  "license": "MIT"
+}

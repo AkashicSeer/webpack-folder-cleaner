@@ -1,0 +1,28 @@
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+# general
+*~
+*.log
+tmp
+dump
+
+
+# SBT
+dist
+project/boot
+project/target
+project/plugins/target
+target
+.target
+
+# Play
+logs
+
+#node modules folder
+node_modules
+package-lock.json
+RUNNING_PID
